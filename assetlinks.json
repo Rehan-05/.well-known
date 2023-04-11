@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.motofellow.app",
+      "sha256_cert_fingerprints": [
+    "6C:B9:9A:4C:D3:28:F4:AD:21:6C:5B:12:AE:03:14:C4:AC:09:0C:13:FC:3A:56:ED:81:4C:48:6F:86:C9:A9:F1"
+      ]
+    }
+  }
+]
