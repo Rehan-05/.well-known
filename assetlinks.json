@@ -10,17 +10,5 @@
         "1C:03:93:42:06:D8:5E:8D:CF:47:8E:BD:E4:6E:F9:38:23:04:36:C1:25:90:60:93:67:E0:F5:AA:D8:FA:99:5F"
       ]
     }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.aliqaimi.AwsomeProject",
-      "sha256_cert_fingerprints": [
-        "57:EE:DF:E2:A7:EE:E7:CF:0D:CE:04:B8:A0:B1:3E:F2:81:D0:AE:0B:26:90:EB:57:F9:FB:88:E9:98:B5:88:9E"
-      ]
-    }
   }
 ]
