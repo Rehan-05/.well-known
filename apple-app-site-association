@@ -1,0 +1,29 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "9975WMH22P.com.motofellow.app"
+                ],
+                "components": [
+                    {
+                        "/": "/registration/*",
+                        "comment": "Matches any URL whose path starts with /registration/*"
+                    },
+                    {
+                        "/": "/resetPassword/*",
+                        "comment": "Matches any URL whose path starts with /resetPassword/*"
+                    }
+                ]
+            },
+            {
+                "appID": "9975WMH22P.com.motofellow.app",
+                "paths": [
+                    "/registration/*",
+                    "/resetPassword/*"
+                ]
+            }
+        ]
+    }
+}
