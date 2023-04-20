@@ -4,7 +4,7 @@
         "details": [
             {
                 "appIDs": [
-                    "9975WMH22P.com.motofellow.app"
+                    "WVM4G84AR2.com.motofellow.app"
                 ],
                 "components": [
                     {
@@ -18,7 +18,7 @@
                 ]
             },
             {
-                "appID": "9975WMH22P.com.motofellow.app",
+                "appID": "WVM4G84AR2.com.motofellow.app",
                 "paths": [
                     "/registration/*",
                     "/resetPassword/*"
